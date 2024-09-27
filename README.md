@@ -1,2 +1,6 @@
 # HalloweenJeopardy
-This is a respository explaining how the game was created and how to play.
+Halloween Jeopardy is a fun time for friends and family that can be played on a computer or mobile device.
+
+How to play:
+To begin this game, players need to decide if it will be two players battling it out or teams playing against each other. Once determined, enter the name of the players or the team in the player 1 and player 2 values then press submit to begin the game. If you want to change the game and turn on day/night mode, you may do so by pressing the sun or moon symbol located at the bottom of the screen. During this game the players will be able to keep up with their score, which is located next to their names. The game will begin once players have reached the screen with the categories and category value cards. The players will take turns, beginning with Player One. The player will start by choosing a value card under the category of their choosing. If answered correctly, the player will earn the points associated with their value card. If answered incorrectly, they will not earn the points associated with their value card and the value card will go back on to the board to be played again. If the opposite player answers correctly, they will earn the points associated with the card. The game will continue until all the value cards have been played and the player with the most points, wins the game. 
+
