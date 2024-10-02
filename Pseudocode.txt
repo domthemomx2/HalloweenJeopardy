@@ -1,0 +1,6 @@
+To begin the game:
+
+Players will insert their name - if player 1 euqals John, print John in Player 1 name value.
+Players will click submit - const the submit button, then use if statement to set up the display after entering the players name.
+Day/Night Toggle - if night clicked the css style will change to dark settings: let isDay or let isNight equal true
+Cards on the board/Player selects card - const the card values 100-500, 
